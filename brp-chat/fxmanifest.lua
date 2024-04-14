@@ -1,5 +1,4 @@
-version '1.4.1'
-author 'Concept Collective'
+version '1.0'
 description 'A chat theme for FiveM'
 
 lua54 'yes'
